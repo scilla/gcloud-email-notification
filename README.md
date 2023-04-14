@@ -12,7 +12,7 @@ This script sends an email notification when a Google Cloud Build completes. It 
 
 1. Clone this repository:
 ```
-git clone https://github.com/your-github-username/google-cloud-build-notification.git
+git clone https://github.com/scilla/gcloud-email-notification.git
 cd google-cloud-build-notification
 ```
 
