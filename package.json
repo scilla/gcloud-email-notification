@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@google-cloud/pubsub": "^3.4.1",
+    "@google-cloud/secret-manager": "^4.2.2",
+    "@types/node": "^18.15.11",
+    "dotenv": "^16.0.3",
+    "nodemailer": "^6.9.1",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^6.4.7"
+  }
+}
